@@ -4,9 +4,9 @@ https://docs.google.com/spreadsheets/d/1CKdeCcf4pViue0OKp39g950JPoASE7rF/edit?us
 
 Report - https://drive.google.com/file/d/1DRiW6XKgMkNjIse6ZWAWKgnGp2nFs1gH/view?usp=drive_link
 
-# 🏦 Bank Loan Case Study – Excel Data Analytics Project
+#  Bank Loan Case Study – Excel Data Analytics Project
 
-## 📌 Overview
+##  Overview
 
 This project analyzes loan application data using Microsoft Excel to uncover key trends, identify risk patterns, and improve loan approval strategy. A clean, interactive dashboard was developed to support decision-making by business stakeholders and loan officers.
 
@@ -24,7 +24,7 @@ This project analyzes loan application data using Microsoft Excel to uncover key
 
 ---
 
-## 🛠 Tools & Techniques Used
+##  Tools & Techniques Used
 
 * **Microsoft Excel**
 
@@ -38,7 +38,7 @@ This project analyzes loan application data using Microsoft Excel to uncover key
 
 ---
 
-## 📊 Process
+##  Process
 
 ### 1. Data Preparation
 
@@ -66,17 +66,17 @@ This project analyzes loan application data using Microsoft Excel to uncover key
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-* ✅ **Highest Approval Rate:** Applicants with credit score >700 and salaried jobs
-* ❌ **Most Rejected Segment:** Self-employed with low income and rural address
-* 🏙️ **Top Region:** Urban property applicants had higher approval odds
+*  **Highest Approval Rate:** Applicants with credit score >700 and salaried jobs
+*  **Most Rejected Segment:** Self-employed with low income and rural address
+*  **Top Region:** Urban property applicants had higher approval odds
   
 ```
 
 ---
 
-## 📈 Results & Impact
+##  Results & Impact
 
 * Built an interactive Excel dashboard to monitor loan applications
 * Provided valuable insights to optimize approval policies
@@ -84,7 +84,7 @@ This project analyzes loan application data using Microsoft Excel to uncover key
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Add scoring logic using weighted risk factors
 * Incorporate visual scenario analysis (What-If)
